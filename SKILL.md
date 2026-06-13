@@ -1,4 +1,4 @@
-﻿---
+---
 name: aurixscript-skill
 description: |
   AurixScript is a Reel, Ad, social content, and content strategy
